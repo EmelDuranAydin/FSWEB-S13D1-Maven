@@ -8,6 +8,7 @@ public class Main {
         System.out.println(shouldWakeUp(true, 8));  // false
         System.out.println(shouldWakeUp(true, -1)); // false
 
+
         System.out.println(hasTeen(9, 99, 19));     // true
         System.out.println(hasTeen(23, 15, 42));    // true
         System.out.println(hasTeen(22, 23, 34));    // false
